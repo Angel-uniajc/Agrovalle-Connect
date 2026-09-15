@@ -13,6 +13,7 @@ Este documento constituye el **contrato técnico de calidad** aceptado por todos
 - [x] **Automatización**: los hooks de Husky (`.husky/pre-commit`) están activos e impiden el commit si falla el linter o las pruebas.
 
 
+
 ## Firma del Equipo
 
 Al firmar (aceptar) este contrato, cada integrante se compromete a cumplir con el checklist anterior en cada entrega.
