@@ -70,3 +70,15 @@ npm-debug.log
 target/
 node_modules/
 *.class
+
+## Java / JVM para crashes
+hs_err_pid*.log
+replay_pid*.log
+*.hprof
+
+## Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+
