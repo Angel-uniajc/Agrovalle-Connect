@@ -1,0 +1,25 @@
+{
+  "name": "agrovalle-connect",
+  "version": "1.0.0",
+  "description": "![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.x-brightgreen) ![Coverage](https://img.shields.io/badge/coverage-60%25-yellow)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-uniajc/Agrovalle-Connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Angel-uniajc/Agrovalle-Connect/issues"
+  },
+  "homepage": "https://github.com/Angel-uniajc/Agrovalle-Connect#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
