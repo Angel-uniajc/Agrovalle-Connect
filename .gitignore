@@ -31,3 +31,53 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## Compilación / Build
+/target/
+*.class
+
+## Archivos de log
+*.log
+spring.log
+
+## IDEs
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+## Sistema operativo
+.DS_Store
+Thumbs.db
+
+## Variables de entorno / secretos
+.env
+.env.local
+application-local.properties
+application-local.yml
+
+## Dependencias y cachés
+.mvn/wrapper/maven-wrapper.jar
+
+## Node (por si usan Husky/npm para los hooks)
+node_modules/
+npm-debug.log
+
+target/
+node_modules/
+*.class
+
+## Java / JVM para crashes
+hs_err_pid*.log
+replay_pid*.log
+*.hprof
+
+## Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
